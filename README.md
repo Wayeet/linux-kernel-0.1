@@ -1,1 +1,1 @@
-# linux-kernel-0.1
+# First ever Linux Kernel created by Linus Torvalds and taken from
